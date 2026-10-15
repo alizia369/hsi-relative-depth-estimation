@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Relative Depth Estimation from Hyperspectral Data"
+type: software
+authors:
+  - family-names: "Zia"
+    given-names: "Ali"
+repository-code: "https://github.com/alizia369/hsi-relative-depth-estimation"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Relative Depth Estimation from Hyperspectral Data"
+  authors:
+    - family-names: "Zia"
+      given-names: "Ali"
+    - family-names: "Zhou"
+      given-names: "Jun"
+    - family-names: "Gao"
+      given-names: "Yongsheng"
+  year: 2015
+  collection-title: "International Conference on Digital Image Computing: Techniques and Applications (DICTA)"
